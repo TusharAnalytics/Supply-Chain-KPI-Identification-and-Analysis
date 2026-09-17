@@ -1,2 +1,0 @@
-# Supply-Chain-KPI-Identification-and-Analysis
-The analysis shows that supply chain performance depends on multiple KPIs rather than a single metric. The hypothetical company achieved 93% On-Time Delivery, 95% Fill Rate, 97% Order Accuracy and 90% Perfect Order Rate. The analysis indicates that late deliveries, inventory availability and order errors are important areas for improvement. Regular KPI monitoring and dashboard-based analysis can help management identify problems and improve customer satisfaction and operational efficiency.
